@@ -9,7 +9,7 @@ I just completed my M.A. in [Climate and Society](http://climatesociety.ei.colum
 
 I'm currently applying to PhD programs (any advisors out there looking for a student?), while working as a science writer and video journalist. 
 
-My most recent work can be found at [Hot Mess](https://youtube.com/HotMessPBS) - a YouTube show from PBS Digital Studios about how climate change impacts all of us, and about how we can create a better future for our planet and ourselves. I primarily write and host videos about how climate change is affecting us, and how are we adapting. 
+My most recent work can be found on [Hot Mess](https://youtube.com/HotMessPBS) - a YouTube show from PBS Digital Studios about how climate change impacts all of us, and about how we can create a better future for our planet and ourselves. I primarily write and host videos about how climate change is affecting us, and how are we adapting. 
 
 So far, my favorite video is the one below. It is all about one of the more optimistic stories from the environmental movement, the Montreal Protocol, and how that landmark international policy could inform how the global community deals with climate change. 
 
@@ -18,3 +18,5 @@ So far, my favorite video is the one below. It is all about one of the more opti
         src="https://www.youtube.com/watch?v=mQpa_NYXUGI">
     </iframe>
 </div>
+
+[![Video Thumbnail](http://img.youtube.com/vi/v=mQpa_NYXUGI/0.jpg)](http://www.youtube.com/watch?v=v=mQpa_NYXUGI "Why Don’t We Hear About the Ozone Hole Anymore? | Hot Mess")
