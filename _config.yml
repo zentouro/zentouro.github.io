@@ -1,6 +1,6 @@
 # Site settings
 title: Miriam Nielsen
-description: 'video journalist, aspiring climate scientist'
+description: 'video journalist, climate researcher'
 url: 'http://zentouro.ldeo.columbia.edu/'
 baseurl: 
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,9 +8,9 @@ baseurl:
 
 author:
   name: 'Miriam Nielsen'
-  email: zentouro@gmail.com
+  email: miriam@iri.columbia.edu
   twitter_username: zentouro
-  facebook_username: zentouro
+  facebook_username: 
   github_username:  zentouro
   youtube_username: zentouro
   linkedin_username:  
