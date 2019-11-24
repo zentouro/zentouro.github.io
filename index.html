@@ -3,12 +3,13 @@ layout: default
 robots: noindex
 ---
 
-<div class ="main-post-list">
+<!--  -->
 
-  TEST WHERE DOES THIS GO 
+<section class="post">
+    {{ content }}
+  </section>
 
-
-<!---
+<!--- Previously linked to a list of blog posts, I don't intend to use this site a a blog, so I've commented this section out
 <div class="main-post-list">
 
   <ol class="post-list">
@@ -27,12 +28,13 @@ robots: noindex
     {% endfor %}
   </ol>
 
--->
+
 
   <hr class="post-list__divider ">
+
 
   {% if paginator.previous_page or paginator.next_page %}
       {% include pagination.html %}
   {% endif %}
-
 </div>
+  -->
