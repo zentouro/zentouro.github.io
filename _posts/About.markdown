@@ -1,9 +1,13 @@
 ---
-title:  "Publications"
+title:  "About"
 date:   
 categories: 
 tags: 
 ---
+
+Research Interests
+
+I am interested in climate change, climate-ecosystem interactions, hydrology, and climate modeling. 
 
 In Preparation/Submitted 
 
